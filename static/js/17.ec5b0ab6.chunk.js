@@ -1,0 +1,2 @@
+(this["webpackJsonpdeploy-website-redux"]=this["webpackJsonpdeploy-website-redux"]||[]).push([[17],{311:function(e,s,c){"use strict";c.r(s);c(1);var t=c(0);s.default=function(){return Object(t.jsx)("div",{className:"p-grid",children:Object(t.jsx)("div",{className:"p-col-12",children:Object(t.jsxs)("div",{className:"card",children:[Object(t.jsx)("h5",{children:"Empty Page"}),Object(t.jsx)("p",{children:"Use this page to start from scratch and place your custom content."})]})})})}}}]);
+//# sourceMappingURL=17.ec5b0ab6.chunk.js.map
